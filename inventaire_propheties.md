@@ -1,0 +1,304 @@
+# Inventaire commenté du dépôt `propheties`
+
+- Dépôt public : https://github.com/frfr2026/propheties
+- Révision clonée : `3f3d46e`
+- Fichiers suivis par Git : **297** (clone réussi; aucun changement local au moment du relevé).
+- Descriptions établies à partir des chemins, noms et documentation du dépôt. Les notices résument la fonction apparente, elles ne valident pas la véracité des affirmations documentaires.
+
+- `00_DOSSIER_10_STRATEGIES.md` — Dossier de stratégie de prédication numérique : dix approches, scripts, parcours de diffusion, indicateurs et garde-fous.
+- `README.md` — Présentation générale : organisation des deux projets, règles de méthode, feuille de route et inventaire commenté de plusieurs livrables.
+- `preuves/00_PLAN_MAITRE.md` — Document de cadrage, contenu ou registre prophétique. Le titre du fichier précise son volet; les numéros 16–23 forment les livraisons successives du registre.
+- `preuves/01_BANQUE_DE_PREUVES.md` — Document de cadrage, contenu ou registre prophétique. Le titre du fichier précise son volet; les numéros 16–23 forment les livraisons successives du registre.
+- `preuves/02_FORMATS_ET_SCRIPTS.md` — Document de cadrage, contenu ou registre prophétique. Le titre du fichier précise son volet; les numéros 16–23 forment les livraisons successives du registre.
+- `preuves/03_FICHE_A4.html` — Document de cadrage, contenu ou registre prophétique. Le titre du fichier précise son volet; les numéros 16–23 forment les livraisons successives du registre.
+- `preuves/04_CARTES_QR.html` — Document de cadrage, contenu ou registre prophétique. Le titre du fichier précise son volet; les numéros 16–23 forment les livraisons successives du registre.
+- `preuves/05_SERIE_30_JOURS.csv` — Document de cadrage, contenu ou registre prophétique. Le titre du fichier précise son volet; les numéros 16–23 forment les livraisons successives du registre.
+- `preuves/06_KIT_MEDIA.md` — Document de cadrage, contenu ou registre prophétique. Le titre du fichier précise son volet; les numéros 16–23 forment les livraisons successives du registre.
+- `preuves/07_BANQUE_IDEES.md` — Document de cadrage, contenu ou registre prophétique. Le titre du fichier précise son volet; les numéros 16–23 forment les livraisons successives du registre.
+- `preuves/08_MISE_EN_FORME.md` — Document de cadrage, contenu ou registre prophétique. Le titre du fichier précise son volet; les numéros 16–23 forment les livraisons successives du registre.
+- `preuves/09_IMPACT_MAXIMUM.md` — Document de cadrage, contenu ou registre prophétique. Le titre du fichier précise son volet; les numéros 16–23 forment les livraisons successives du registre.
+- `preuves/10_CATALOGUE.html` — Document de cadrage, contenu ou registre prophétique. Le titre du fichier précise son volet; les numéros 16–23 forment les livraisons successives du registre.
+- `preuves/11_PROPHETIES_IDEES.md` — Document de cadrage, contenu ou registre prophétique. Le titre du fichier précise son volet; les numéros 16–23 forment les livraisons successives du registre.
+- `preuves/12_MISE_EN_OEUVRE_IMPACT.md` — Document de cadrage, contenu ou registre prophétique. Le titre du fichier précise son volet; les numéros 16–23 forment les livraisons successives du registre.
+- `preuves/13_COFFRET_PROPHETIE.html` — Document de cadrage, contenu ou registre prophétique. Le titre du fichier précise son volet; les numéros 16–23 forment les livraisons successives du registre.
+- `preuves/14_PROPHETIES_VAGUE_2.md` — Document de cadrage, contenu ou registre prophétique. Le titre du fichier précise son volet; les numéros 16–23 forment les livraisons successives du registre.
+- `preuves/15_COFFRET_PROPHETIE_2.html` — Document de cadrage, contenu ou registre prophétique. Le titre du fichier précise son volet; les numéros 16–23 forment les livraisons successives du registre.
+- `preuves/16_REGISTRE_PROPHETIES.md` — Document de cadrage, contenu ou registre prophétique. Le titre du fichier précise son volet; les numéros 16–23 forment les livraisons successives du registre.
+- `preuves/17_REGISTRE_PROPHETIES_2.md` — Document de cadrage, contenu ou registre prophétique. Le titre du fichier précise son volet; les numéros 16–23 forment les livraisons successives du registre.
+- `preuves/18_REGISTRE_PROPHETIES_3.md` — Document de cadrage, contenu ou registre prophétique. Le titre du fichier précise son volet; les numéros 16–23 forment les livraisons successives du registre.
+- `preuves/19_REGISTRE_PROPHETIES_4.md` — Document de cadrage, contenu ou registre prophétique. Le titre du fichier précise son volet; les numéros 16–23 forment les livraisons successives du registre.
+- `preuves/20_REGISTRE_PROPHETIES_5.md` — Document de cadrage, contenu ou registre prophétique. Le titre du fichier précise son volet; les numéros 16–23 forment les livraisons successives du registre.
+- `preuves/21_REGISTRE_PROPHETIES_6.md` — Document de cadrage, contenu ou registre prophétique. Le titre du fichier précise son volet; les numéros 16–23 forment les livraisons successives du registre.
+- `preuves/22_GRAND_DOSSIER.md` — Document de cadrage, contenu ou registre prophétique. Le titre du fichier précise son volet; les numéros 16–23 forment les livraisons successives du registre.
+- `preuves/23_REGISTRE_PROPHETIES_7.md` — Document de cadrage, contenu ou registre prophétique. Le titre du fichier précise son volet; les numéros 16–23 forment les livraisons successives du registre.
+- `preuves/CAHIER_AUDITEUR.html` — Page/document HTML autonome « cahier auditeur » : support de consultation, de navigation, d’impression ou de présentation du projet.
+- `preuves/COLLECTIONS_AUDIO.html` — Page/document HTML autonome « collections audio » : support de consultation, de navigation, d’impression ou de présentation du projet.
+- `preuves/FICHES8_ABDIAS_1.html` — Fiche HTML de la série « phase 8 », portant sur Abdias 1 (contenu biblique/prophétique structuré pour consultation ou impression).
+- `preuves/FICHES8_AGGEE_1.html` — Fiche HTML de la série « phase 8 », portant sur Aggee 1 (contenu biblique/prophétique structuré pour consultation ou impression).
+- `preuves/FICHES8_AMOS_1.html` — Fiche HTML de la série « phase 8 », portant sur Amos 1 (contenu biblique/prophétique structuré pour consultation ou impression).
+- `preuves/FICHES8_AMOS_2.html` — Fiche HTML de la série « phase 8 », portant sur Amos 2 (contenu biblique/prophétique structuré pour consultation ou impression).
+- `preuves/FICHES8_CH_ED_NE_IS.html` — Fiche HTML de la série « phase 8 », portant sur Ch Ed Ne Is (contenu biblique/prophétique structuré pour consultation ou impression).
+- `preuves/FICHES8_DANIEL_1.html` — Fiche HTML de la série « phase 8 », portant sur Daniel 1 (contenu biblique/prophétique structuré pour consultation ou impression).
+- `preuves/FICHES8_DANIEL_2.html` — Fiche HTML de la série « phase 8 », portant sur Daniel 2 (contenu biblique/prophétique structuré pour consultation ou impression).
+- `preuves/FICHES8_DANIEL_3.html` — Fiche HTML de la série « phase 8 », portant sur Daniel 3 (contenu biblique/prophétique structuré pour consultation ou impression).
+- `preuves/FICHES8_DANIEL_4.html` — Fiche HTML de la série « phase 8 », portant sur Daniel 4 (contenu biblique/prophétique structuré pour consultation ou impression).
+- `preuves/FICHES8_DANIEL_5.html` — Fiche HTML de la série « phase 8 », portant sur Daniel 5 (contenu biblique/prophétique structuré pour consultation ou impression).
+- `preuves/FICHES8_DANIEL_6.html` — Fiche HTML de la série « phase 8 », portant sur Daniel 6 (contenu biblique/prophétique structuré pour consultation ou impression).
+- `preuves/FICHES8_DEUTERONOME_1.html` — Fiche HTML de la série « phase 8 », portant sur Deuteronome 1 (contenu biblique/prophétique structuré pour consultation ou impression).
+- `preuves/FICHES8_DEUTERONOME_2.html` — Fiche HTML de la série « phase 8 », portant sur Deuteronome 2 (contenu biblique/prophétique structuré pour consultation ou impression).
+- `preuves/FICHES8_EXODE_1.html` — Fiche HTML de la série « phase 8 », portant sur Exode 1 (contenu biblique/prophétique structuré pour consultation ou impression).
+- `preuves/FICHES8_EXODE_2.html` — Fiche HTML de la série « phase 8 », portant sur Exode 2 (contenu biblique/prophétique structuré pour consultation ou impression).
+- `preuves/FICHES8_EZECHIEL_1.html` — Fiche HTML de la série « phase 8 », portant sur Ezechiel 1 (contenu biblique/prophétique structuré pour consultation ou impression).
+- `preuves/FICHES8_EZECHIEL_10.html` — Fiche HTML de la série « phase 8 », portant sur Ezechiel 10 (contenu biblique/prophétique structuré pour consultation ou impression).
+- `preuves/FICHES8_EZECHIEL_11.html` — Fiche HTML de la série « phase 8 », portant sur Ezechiel 11 (contenu biblique/prophétique structuré pour consultation ou impression).
+- `preuves/FICHES8_EZECHIEL_2.html` — Fiche HTML de la série « phase 8 », portant sur Ezechiel 2 (contenu biblique/prophétique structuré pour consultation ou impression).
+- `preuves/FICHES8_EZECHIEL_3.html` — Fiche HTML de la série « phase 8 », portant sur Ezechiel 3 (contenu biblique/prophétique structuré pour consultation ou impression).
+- `preuves/FICHES8_EZECHIEL_4.html` — Fiche HTML de la série « phase 8 », portant sur Ezechiel 4 (contenu biblique/prophétique structuré pour consultation ou impression).
+- `preuves/FICHES8_EZECHIEL_5.html` — Fiche HTML de la série « phase 8 », portant sur Ezechiel 5 (contenu biblique/prophétique structuré pour consultation ou impression).
+- `preuves/FICHES8_EZECHIEL_6.html` — Fiche HTML de la série « phase 8 », portant sur Ezechiel 6 (contenu biblique/prophétique structuré pour consultation ou impression).
+- `preuves/FICHES8_EZECHIEL_7.html` — Fiche HTML de la série « phase 8 », portant sur Ezechiel 7 (contenu biblique/prophétique structuré pour consultation ou impression).
+- `preuves/FICHES8_EZECHIEL_8.html` — Fiche HTML de la série « phase 8 », portant sur Ezechiel 8 (contenu biblique/prophétique structuré pour consultation ou impression).
+- `preuves/FICHES8_EZECHIEL_9.html` — Fiche HTML de la série « phase 8 », portant sur Ezechiel 9 (contenu biblique/prophétique structuré pour consultation ou impression).
+- `preuves/FICHES8_GENESE_1.html` — Fiche HTML de la série « phase 8 », portant sur Genese 1 (contenu biblique/prophétique structuré pour consultation ou impression).
+- `preuves/FICHES8_GENESE_2.html` — Fiche HTML de la série « phase 8 », portant sur Genese 2 (contenu biblique/prophétique structuré pour consultation ou impression).
+- `preuves/FICHES8_GENESE_3.html` — Fiche HTML de la série « phase 8 », portant sur Genese 3 (contenu biblique/prophétique structuré pour consultation ou impression).
+- `preuves/FICHES8_GENESE_4.html` — Fiche HTML de la série « phase 8 », portant sur Genese 4 (contenu biblique/prophétique structuré pour consultation ou impression).
+- `preuves/FICHES8_GENESE_5.html` — Fiche HTML de la série « phase 8 », portant sur Genese 5 (contenu biblique/prophétique structuré pour consultation ou impression).
+- `preuves/FICHES8_GENESE_6.html` — Fiche HTML de la série « phase 8 », portant sur Genese 6 (contenu biblique/prophétique structuré pour consultation ou impression).
+- `preuves/FICHES8_GENESE_7.html` — Fiche HTML de la série « phase 8 », portant sur Genese 7 (contenu biblique/prophétique structuré pour consultation ou impression).
+- `preuves/FICHES8_HABACUC_1.html` — Fiche HTML de la série « phase 8 », portant sur Habacuc 1 (contenu biblique/prophétique structuré pour consultation ou impression).
+- `preuves/FICHES8_HABACUC_2.html` — Fiche HTML de la série « phase 8 », portant sur Habacuc 2 (contenu biblique/prophétique structuré pour consultation ou impression).
+- `preuves/FICHES8_ISAIE_10.html` — Fiche HTML de la série « phase 8 », portant sur Isaie 10 (contenu biblique/prophétique structuré pour consultation ou impression).
+- `preuves/FICHES8_ISAIE_11.html` — Fiche HTML de la série « phase 8 », portant sur Isaie 11 (contenu biblique/prophétique structuré pour consultation ou impression).
+- `preuves/FICHES8_ISAIE_12.html` — Fiche HTML de la série « phase 8 », portant sur Isaie 12 (contenu biblique/prophétique structuré pour consultation ou impression).
+- `preuves/FICHES8_ISAIE_13.html` — Fiche HTML de la série « phase 8 », portant sur Isaie 13 (contenu biblique/prophétique structuré pour consultation ou impression).
+- `preuves/FICHES8_ISAIE_2.html` — Fiche HTML de la série « phase 8 », portant sur Isaie 2 (contenu biblique/prophétique structuré pour consultation ou impression).
+- `preuves/FICHES8_ISAIE_3.html` — Fiche HTML de la série « phase 8 », portant sur Isaie 3 (contenu biblique/prophétique structuré pour consultation ou impression).
+- `preuves/FICHES8_ISAIE_4.html` — Fiche HTML de la série « phase 8 », portant sur Isaie 4 (contenu biblique/prophétique structuré pour consultation ou impression).
+- `preuves/FICHES8_ISAIE_5.html` — Fiche HTML de la série « phase 8 », portant sur Isaie 5 (contenu biblique/prophétique structuré pour consultation ou impression).
+- `preuves/FICHES8_ISAIE_6.html` — Fiche HTML de la série « phase 8 », portant sur Isaie 6 (contenu biblique/prophétique structuré pour consultation ou impression).
+- `preuves/FICHES8_ISAIE_7.html` — Fiche HTML de la série « phase 8 », portant sur Isaie 7 (contenu biblique/prophétique structuré pour consultation ou impression).
+- `preuves/FICHES8_ISAIE_8.html` — Fiche HTML de la série « phase 8 », portant sur Isaie 8 (contenu biblique/prophétique structuré pour consultation ou impression).
+- `preuves/FICHES8_ISAIE_9.html` — Fiche HTML de la série « phase 8 », portant sur Isaie 9 (contenu biblique/prophétique structuré pour consultation ou impression).
+- `preuves/FICHES8_JEREMIE_1.html` — Fiche HTML de la série « phase 8 », portant sur Jeremie 1 (contenu biblique/prophétique structuré pour consultation ou impression).
+- `preuves/FICHES8_JEREMIE_10.html` — Fiche HTML de la série « phase 8 », portant sur Jeremie 10 (contenu biblique/prophétique structuré pour consultation ou impression).
+- `preuves/FICHES8_JEREMIE_11.html` — Fiche HTML de la série « phase 8 », portant sur Jeremie 11 (contenu biblique/prophétique structuré pour consultation ou impression).
+- `preuves/FICHES8_JEREMIE_12.html` — Fiche HTML de la série « phase 8 », portant sur Jeremie 12 (contenu biblique/prophétique structuré pour consultation ou impression).
+- `preuves/FICHES8_JEREMIE_13.html` — Fiche HTML de la série « phase 8 », portant sur Jeremie 13 (contenu biblique/prophétique structuré pour consultation ou impression).
+- `preuves/FICHES8_JEREMIE_14.html` — Fiche HTML de la série « phase 8 », portant sur Jeremie 14 (contenu biblique/prophétique structuré pour consultation ou impression).
+- `preuves/FICHES8_JEREMIE_15.html` — Fiche HTML de la série « phase 8 », portant sur Jeremie 15 (contenu biblique/prophétique structuré pour consultation ou impression).
+- `preuves/FICHES8_JEREMIE_16.html` — Fiche HTML de la série « phase 8 », portant sur Jeremie 16 (contenu biblique/prophétique structuré pour consultation ou impression).
+- `preuves/FICHES8_JEREMIE_17.html` — Fiche HTML de la série « phase 8 », portant sur Jeremie 17 (contenu biblique/prophétique structuré pour consultation ou impression).
+- `preuves/FICHES8_JEREMIE_18.html` — Fiche HTML de la série « phase 8 », portant sur Jeremie 18 (contenu biblique/prophétique structuré pour consultation ou impression).
+- `preuves/FICHES8_JEREMIE_19.html` — Fiche HTML de la série « phase 8 », portant sur Jeremie 19 (contenu biblique/prophétique structuré pour consultation ou impression).
+- `preuves/FICHES8_JEREMIE_2.html` — Fiche HTML de la série « phase 8 », portant sur Jeremie 2 (contenu biblique/prophétique structuré pour consultation ou impression).
+- `preuves/FICHES8_JEREMIE_20_LAMENTATIONS_1.html` — Fiche HTML de la série « phase 8 », portant sur Jeremie 20 Lamentations 1 (contenu biblique/prophétique structuré pour consultation ou impression).
+- `preuves/FICHES8_JEREMIE_3.html` — Fiche HTML de la série « phase 8 », portant sur Jeremie 3 (contenu biblique/prophétique structuré pour consultation ou impression).
+- `preuves/FICHES8_JEREMIE_4.html` — Fiche HTML de la série « phase 8 », portant sur Jeremie 4 (contenu biblique/prophétique structuré pour consultation ou impression).
+- `preuves/FICHES8_JEREMIE_5.html` — Fiche HTML de la série « phase 8 », portant sur Jeremie 5 (contenu biblique/prophétique structuré pour consultation ou impression).
+- `preuves/FICHES8_JEREMIE_6.html` — Fiche HTML de la série « phase 8 », portant sur Jeremie 6 (contenu biblique/prophétique structuré pour consultation ou impression).
+- `preuves/FICHES8_JEREMIE_7.html` — Fiche HTML de la série « phase 8 », portant sur Jeremie 7 (contenu biblique/prophétique structuré pour consultation ou impression).
+- `preuves/FICHES8_JEREMIE_8.html` — Fiche HTML de la série « phase 8 », portant sur Jeremie 8 (contenu biblique/prophétique structuré pour consultation ou impression).
+- `preuves/FICHES8_JEREMIE_9.html` — Fiche HTML de la série « phase 8 », portant sur Jeremie 9 (contenu biblique/prophétique structuré pour consultation ou impression).
+- `preuves/FICHES8_JOEL_1.html` — Fiche HTML de la série « phase 8 », portant sur Joel 1 (contenu biblique/prophétique structuré pour consultation ou impression).
+- `preuves/FICHES8_JONAS_1.html` — Fiche HTML de la série « phase 8 », portant sur Jonas 1 (contenu biblique/prophétique structuré pour consultation ou impression).
+- `preuves/FICHES8_MALACHIE_1.html` — Fiche HTML de la série « phase 8 », portant sur Malachie 1 (contenu biblique/prophétique structuré pour consultation ou impression).
+- `preuves/FICHES8_MICHEE_1.html` — Fiche HTML de la série « phase 8 », portant sur Michee 1 (contenu biblique/prophétique structuré pour consultation ou impression).
+- `preuves/FICHES8_MICHEE_2.html` — Fiche HTML de la série « phase 8 », portant sur Michee 2 (contenu biblique/prophétique structuré pour consultation ou impression).
+- `preuves/FICHES8_NAHOUM_1.html` — Fiche HTML de la série « phase 8 », portant sur Nahoum 1 (contenu biblique/prophétique structuré pour consultation ou impression).
+- `preuves/FICHES8_NAHOUM_2.html` — Fiche HTML de la série « phase 8 », portant sur Nahoum 2 (contenu biblique/prophétique structuré pour consultation ou impression).
+- `preuves/FICHES8_OSEE_1.html` — Fiche HTML de la série « phase 8 », portant sur Osee 1 (contenu biblique/prophétique structuré pour consultation ou impression).
+- `preuves/FICHES8_OSEE_2.html` — Fiche HTML de la série « phase 8 », portant sur Osee 2 (contenu biblique/prophétique structuré pour consultation ou impression).
+- `preuves/FICHES8_OSEE_3.html` — Fiche HTML de la série « phase 8 », portant sur Osee 3 (contenu biblique/prophétique structuré pour consultation ou impression).
+- `preuves/FICHES8_ROIS_1.html` — Fiche HTML de la série « phase 8 », portant sur Rois 1 (contenu biblique/prophétique structuré pour consultation ou impression).
+- `preuves/FICHES8_ROIS_2.html` — Fiche HTML de la série « phase 8 », portant sur Rois 2 (contenu biblique/prophétique structuré pour consultation ou impression).
+- `preuves/FICHES8_ROIS_3.html` — Fiche HTML de la série « phase 8 », portant sur Rois 3 (contenu biblique/prophétique structuré pour consultation ou impression).
+- `preuves/FICHES8_ROIS_4.html` — Fiche HTML de la série « phase 8 », portant sur Rois 4 (contenu biblique/prophétique structuré pour consultation ou impression).
+- `preuves/FICHES8_ROIS_5_CHRONIQUES_1.html` — Fiche HTML de la série « phase 8 », portant sur Rois 5 Chroniques 1 (contenu biblique/prophétique structuré pour consultation ou impression).
+- `preuves/FICHES8_SAMUEL_1.html` — Fiche HTML de la série « phase 8 », portant sur Samuel 1 (contenu biblique/prophétique structuré pour consultation ou impression).
+- `preuves/FICHES8_SOPHONIE_1.html` — Fiche HTML de la série « phase 8 », portant sur Sophonie 1 (contenu biblique/prophétique structuré pour consultation ou impression).
+- `preuves/FICHES8_SOPHONIE_2.html` — Fiche HTML de la série « phase 8 », portant sur Sophonie 2 (contenu biblique/prophétique structuré pour consultation ou impression).
+- `preuves/FICHES8_SOPHONIE_3.html` — Fiche HTML de la série « phase 8 », portant sur Sophonie 3 (contenu biblique/prophétique structuré pour consultation ou impression).
+- `preuves/FICHES8_TRANSITION_EZDN.html` — Fiche HTML de la série « phase 8 », portant sur Transition Ezdn (contenu biblique/prophétique structuré pour consultation ou impression).
+- `preuves/FICHES8_ZACHARIE_1.html` — Fiche HTML de la série « phase 8 », portant sur Zacharie 1 (contenu biblique/prophétique structuré pour consultation ou impression).
+- `preuves/FICHES8_ZACHARIE_2.html` — Fiche HTML de la série « phase 8 », portant sur Zacharie 2 (contenu biblique/prophétique structuré pour consultation ou impression).
+- `preuves/FICHES8_ZACHARIE_3.html` — Fiche HTML de la série « phase 8 », portant sur Zacharie 3 (contenu biblique/prophétique structuré pour consultation ou impression).
+- `preuves/FICHES8_ZACHARIE_4.html` — Fiche HTML de la série « phase 8 », portant sur Zacharie 4 (contenu biblique/prophétique structuré pour consultation ou impression).
+- `preuves/FICHES_A_NATIONS.html` — Collection HTML de fiches thématiques : A Nations; documents de synthèse et d’examen des textes/prophéties associés.
+- `preuves/FICHES_B_JERUSALEM.html` — Collection HTML de fiches thématiques : B Jerusalem; documents de synthèse et d’examen des textes/prophéties associés.
+- `preuves/FICHES_C_MESSIE_1.html` — Collection HTML de fiches thématiques : C Messie 1; documents de synthèse et d’examen des textes/prophéties associés.
+- `preuves/FICHES_C_MESSIE_2.html` — Collection HTML de fiches thématiques : C Messie 2; documents de synthèse et d’examen des textes/prophéties associés.
+- `preuves/FICHES_DATES.html` — Collection HTML de fiches thématiques : Dates; documents de synthèse et d’examen des textes/prophéties associés.
+- `preuves/FICHES_D_PASSION_1.html` — Collection HTML de fiches thématiques : D Passion 1; documents de synthèse et d’examen des textes/prophéties associés.
+- `preuves/FICHES_E_EMPIRES_1.html` — Collection HTML de fiches thématiques : E Empires 1; documents de synthèse et d’examen des textes/prophéties associés.
+- `preuves/FICHES_F_CHRONO_1.html` — Collection HTML de fiches thématiques : F Chrono 1; documents de synthèse et d’examen des textes/prophéties associés.
+- `preuves/FICHES_G_RESTAURATION_1.html` — Collection HTML de fiches thématiques : G Restauration 1; documents de synthèse et d’examen des textes/prophéties associés.
+- `preuves/FICHES_H_SIGNE_1.html` — Collection HTML de fiches thématiques : H Signe 1; documents de synthèse et d’examen des textes/prophéties associés.
+- `preuves/FICHES_I_REVELATION_1.html` — Collection HTML de fiches thématiques : I Revelation 1; documents de synthèse et d’examen des textes/prophéties associés.
+- `preuves/FICHES_J_NOMMES_1.html` — Collection HTML de fiches thématiques : J Nommes 1; documents de synthèse et d’examen des textes/prophéties associés.
+- `preuves/FICHES_J_NOMMES_2.html` — Collection HTML de fiches thématiques : J Nommes 2; documents de synthèse et d’examen des textes/prophéties associés.
+- `preuves/FICHES_K_SCIENCE_1.html` — Collection HTML de fiches thématiques : K Science 1; documents de synthèse et d’examen des textes/prophéties associés.
+- `preuves/FICHES_L_GEO_1.html` — Collection HTML de fiches thématiques : L Geo 1; documents de synthèse et d’examen des textes/prophéties associés.
+- `preuves/FICHES_L_GEO_2.html` — Collection HTML de fiches thématiques : L Geo 2; documents de synthèse et d’examen des textes/prophéties associés.
+- `preuves/FICHES_R_RELIQUATS.html` — Collection HTML de fiches thématiques : R Reliquats; documents de synthèse et d’examen des textes/prophéties associés.
+- `preuves/FICHES_S_PSAUMES.html` — Collection HTML de fiches thématiques : S Psaumes; documents de synthèse et d’examen des textes/prophéties associés.
+- `preuves/FICHES_T_JEREMIE_1.html` — Collection HTML de fiches thématiques : T Jeremie 1; documents de synthèse et d’examen des textes/prophéties associés.
+- `preuves/FICHES_T_JEREMIE_2.html` — Collection HTML de fiches thématiques : T Jeremie 2; documents de synthèse et d’examen des textes/prophéties associés.
+- `preuves/INDEX_GENERAL.html` — Page/document HTML autonome « index general » : support de consultation, de navigation, d’impression ou de présentation du projet.
+- `preuves/PLANS_ECOUTE.html` — Page/document HTML autonome « plans ecoute » : support de consultation, de navigation, d’impression ou de présentation du projet.
+- `preuves/SITE_LOCAL.html` — Page/document HTML autonome « site local » : support de consultation, de navigation, d’impression ou de présentation du projet.
+- `preuves/_TMP_HA1.html` — Page/document HTML autonome «  tmp ha1 » : support de consultation, de navigation, d’impression ou de présentation du projet.
+- `preuves/cahier/build_cahier.py` — Script Python de génération du livrable cahier; assemble/valide les données et produit des fichiers de sortie.
+- `preuves/collections/build_collections.py` — Script Python de génération du livrable collections; assemble/valide les données et produit des fichiers de sortie.
+- `preuves/collections/durations.json` — Données ou configuration JSON (durations.json); fichier de référence utilisé par les scripts ou documents du répertoire.
+- `preuves/collections/durations.py` — Script/module Python (durations.py) utilisé par le sous-système indiqué par son répertoire; contient la logique de génération ou les paramètres associés.
+- `preuves/dates/build_dates.py` — Script Python de génération du livrable dates; assemble/valide les données et produit des fichiers de sortie.
+- `preuves/divers/cjv.json` — Données ou configuration JSON (cjv.json); fichier de référence utilisé par les scripts ou documents du répertoire.
+- `preuves/divers/cjv.txt` — Corpus texte de référence (« cjv.txt »), utilisé comme matériau documentaire ou source de travail; ce n’est pas un exécutable.
+- `preuves/divers/clattes.txt` — Corpus texte de référence (« clattes.txt »), utilisé comme matériau documentaire ou source de travail; ce n’est pas un exécutable.
+- `preuves/divers/etudes.txt` — Corpus texte de référence (« etudes.txt »), utilisé comme matériau documentaire ou source de travail; ce n’est pas un exécutable.
+- `preuves/divers/g79.json` — Données ou configuration JSON (g79.json); fichier de référence utilisé par les scripts ou documents du répertoire.
+- `preuves/divers/g79.txt` — Corpus texte de référence (« g79.txt »), utilisé comme matériau documentaire ou source de travail; ce n’est pas un exécutable.
+- `preuves/divers/prophéties.txt` — Corpus texte de référence (« prophéties.txt »), utilisé comme matériau documentaire ou source de travail; ce n’est pas un exécutable.
+- `preuves/divers/prophéties_prompts.txt` — Corpus texte de référence (« prophéties_prompts.txt »), utilisé comme matériau documentaire ou source de travail; ce n’est pas un exécutable.
+- `preuves/fiches/00_WORKFLOW.md` — Document de cadrage, contenu ou registre prophétique. Le titre du fichier précise son volet; les numéros 16–23 forment les livraisons successives du registre.
+- `preuves/fiches/build_fiches.py` — Script Python de génération du livrable fiches; assemble/valide les données et produit des fichiers de sortie.
+- `preuves/fiches/data/__init__.py` — Données éditoriales Python de la catégorie __INIT__; source structurée des fiches thématiques générées.
+- `preuves/fiches/data/cat_a.py` — Données éditoriales Python de la catégorie A; source structurée des fiches thématiques générées.
+- `preuves/fiches/data/cat_b.py` — Données éditoriales Python de la catégorie B; source structurée des fiches thématiques générées.
+- `preuves/fiches/data/cat_c1.py` — Données éditoriales Python de la catégorie C1; source structurée des fiches thématiques générées.
+- `preuves/fiches/data/cat_c2.py` — Données éditoriales Python de la catégorie C2; source structurée des fiches thématiques générées.
+- `preuves/fiches/data/cat_d1.py` — Données éditoriales Python de la catégorie D1; source structurée des fiches thématiques générées.
+- `preuves/fiches/data/cat_e1.py` — Données éditoriales Python de la catégorie E1; source structurée des fiches thématiques générées.
+- `preuves/fiches/data/cat_f1.py` — Données éditoriales Python de la catégorie F1; source structurée des fiches thématiques générées.
+- `preuves/fiches/data/cat_g1.py` — Données éditoriales Python de la catégorie G1; source structurée des fiches thématiques générées.
+- `preuves/fiches/data/cat_h1.py` — Données éditoriales Python de la catégorie H1; source structurée des fiches thématiques générées.
+- `preuves/fiches/data/cat_i1.py` — Données éditoriales Python de la catégorie I1; source structurée des fiches thématiques générées.
+- `preuves/fiches/data/cat_j1.py` — Données éditoriales Python de la catégorie J1; source structurée des fiches thématiques générées.
+- `preuves/fiches/data/cat_j2.py` — Données éditoriales Python de la catégorie J2; source structurée des fiches thématiques générées.
+- `preuves/fiches/data/cat_k1.py` — Données éditoriales Python de la catégorie K1; source structurée des fiches thématiques générées.
+- `preuves/fiches/data/cat_l1.py` — Données éditoriales Python de la catégorie L1; source structurée des fiches thématiques générées.
+- `preuves/fiches/data/cat_l2.py` — Données éditoriales Python de la catégorie L2; source structurée des fiches thématiques générées.
+- `preuves/fiches/data/cat_r1.py` — Données éditoriales Python de la catégorie R1; source structurée des fiches thématiques générées.
+- `preuves/fiches/data/cat_s1.py` — Données éditoriales Python de la catégorie S1; source structurée des fiches thématiques générées.
+- `preuves/fiches/data/cat_t1.py` — Données éditoriales Python de la catégorie T1; source structurée des fiches thématiques générées.
+- `preuves/fiches/data/cat_t2.py` — Données éditoriales Python de la catégorie T2; source structurée des fiches thématiques générées.
+- `preuves/fiches/durations.json` — Données ou configuration JSON (durations.json); fichier de référence utilisé par les scripts ou documents du répertoire.
+- `preuves/fiches/theme.py` — Script/module Python (theme.py) utilisé par le sous-système indiqué par son répertoire; contient la logique de génération ou les paramètres associés.
+- `preuves/index/build_index.py` — Script Python de génération du livrable index; assemble/valide les données et produit des fichiers de sortie.
+- `preuves/livres/LIVRE_1_ENQUETE.html` — Page/document HTML autonome « livre 1 enquete » : support de consultation, de navigation, d’impression ou de présentation du projet.
+- `preuves/livres/LIVRE_2_LES_1000.html` — Page/document HTML autonome « livre 2 les 1000 » : support de consultation, de navigation, d’impression ou de présentation du projet.
+- `preuves/livres/LIVRE_3_DETAIL.html` — Page/document HTML autonome « livre 3 detail » : support de consultation, de navigation, d’impression ou de présentation du projet.
+- `preuves/livres/build_livres.py` — Script Python de génération du livrable livres; assemble/valide les données et produit des fichiers de sortie.
+- `preuves/phase8/00_WORKFLOW_PHASE8.md` — Document de cadrage, contenu ou registre prophétique. Le titre du fichier précise son volet; les numéros 16–23 forment les livraisons successives du registre.
+- `preuves/phase8/ETATS_PHASE8.md` — Document Markdown de procédure ou de référence (« ETATS PHASE8 ») pour le sous-projet correspondant.
+- `preuves/phase8/build_p8.py` — Script Python de génération du livrable p8; assemble/valide les données et produit des fichiers de sortie.
+- `preuves/phase8/data/p8_ab1.py` — Données sources Python de la fiche phase 8 « ab1 »; alimentent le générateur de fiches HTML.
+- `preuves/phase8/data/p8_ag1.py` — Données sources Python de la fiche phase 8 « ag1 »; alimentent le générateur de fiches HTML.
+- `preuves/phase8/data/p8_am1.py` — Données sources Python de la fiche phase 8 « am1 »; alimentent le générateur de fiches HTML.
+- `preuves/phase8/data/p8_am2.py` — Données sources Python de la fiche phase 8 « am2 »; alimentent le générateur de fiches HTML.
+- `preuves/phase8/data/p8_ch2edneis.py` — Données sources Python de la fiche phase 8 « ch2edneis »; alimentent le générateur de fiches HTML.
+- `preuves/phase8/data/p8_deu1.py` — Données sources Python de la fiche phase 8 « deu1 »; alimentent le générateur de fiches HTML.
+- `preuves/phase8/data/p8_deu2.py` — Données sources Python de la fiche phase 8 « deu2 »; alimentent le générateur de fiches HTML.
+- `preuves/phase8/data/p8_dn1.py` — Données sources Python de la fiche phase 8 « dn1 »; alimentent le générateur de fiches HTML.
+- `preuves/phase8/data/p8_dn2.py` — Données sources Python de la fiche phase 8 « dn2 »; alimentent le générateur de fiches HTML.
+- `preuves/phase8/data/p8_dn3.py` — Données sources Python de la fiche phase 8 « dn3 »; alimentent le générateur de fiches HTML.
+- `preuves/phase8/data/p8_dn4.py` — Données sources Python de la fiche phase 8 « dn4 »; alimentent le générateur de fiches HTML.
+- `preuves/phase8/data/p8_dn5.py` — Données sources Python de la fiche phase 8 « dn5 »; alimentent le générateur de fiches HTML.
+- `preuves/phase8/data/p8_dn6.py` — Données sources Python de la fiche phase 8 « dn6 »; alimentent le générateur de fiches HTML.
+- `preuves/phase8/data/p8_exo1.py` — Données sources Python de la fiche phase 8 « exo1 »; alimentent le générateur de fiches HTML.
+- `preuves/phase8/data/p8_exo2.py` — Données sources Python de la fiche phase 8 « exo2 »; alimentent le générateur de fiches HTML.
+- `preuves/phase8/data/p8_ez1.py` — Données sources Python de la fiche phase 8 « ez1 »; alimentent le générateur de fiches HTML.
+- `preuves/phase8/data/p8_ez10.py` — Données sources Python de la fiche phase 8 « ez10 »; alimentent le générateur de fiches HTML.
+- `preuves/phase8/data/p8_ez11.py` — Données sources Python de la fiche phase 8 « ez11 »; alimentent le générateur de fiches HTML.
+- `preuves/phase8/data/p8_ez2.py` — Données sources Python de la fiche phase 8 « ez2 »; alimentent le générateur de fiches HTML.
+- `preuves/phase8/data/p8_ez3.py` — Données sources Python de la fiche phase 8 « ez3 »; alimentent le générateur de fiches HTML.
+- `preuves/phase8/data/p8_ez4.py` — Données sources Python de la fiche phase 8 « ez4 »; alimentent le générateur de fiches HTML.
+- `preuves/phase8/data/p8_ez5.py` — Données sources Python de la fiche phase 8 « ez5 »; alimentent le générateur de fiches HTML.
+- `preuves/phase8/data/p8_ez6.py` — Données sources Python de la fiche phase 8 « ez6 »; alimentent le générateur de fiches HTML.
+- `preuves/phase8/data/p8_ez7.py` — Données sources Python de la fiche phase 8 « ez7 »; alimentent le générateur de fiches HTML.
+- `preuves/phase8/data/p8_ez8.py` — Données sources Python de la fiche phase 8 « ez8 »; alimentent le générateur de fiches HTML.
+- `preuves/phase8/data/p8_ez9.py` — Données sources Python de la fiche phase 8 « ez9 »; alimentent le générateur de fiches HTML.
+- `preuves/phase8/data/p8_ezdn1.py` — Données sources Python de la fiche phase 8 « ezdn1 »; alimentent le générateur de fiches HTML.
+- `preuves/phase8/data/p8_gen1.py` — Données sources Python de la fiche phase 8 « gen1 »; alimentent le générateur de fiches HTML.
+- `preuves/phase8/data/p8_gen2.py` — Données sources Python de la fiche phase 8 « gen2 »; alimentent le générateur de fiches HTML.
+- `preuves/phase8/data/p8_gen3.py` — Données sources Python de la fiche phase 8 « gen3 »; alimentent le générateur de fiches HTML.
+- `preuves/phase8/data/p8_gen4.py` — Données sources Python de la fiche phase 8 « gen4 »; alimentent le générateur de fiches HTML.
+- `preuves/phase8/data/p8_gen5.py` — Données sources Python de la fiche phase 8 « gen5 »; alimentent le générateur de fiches HTML.
+- `preuves/phase8/data/p8_gen6.py` — Données sources Python de la fiche phase 8 « gen6 »; alimentent le générateur de fiches HTML.
+- `preuves/phase8/data/p8_gen7.py` — Données sources Python de la fiche phase 8 « gen7 »; alimentent le générateur de fiches HTML.
+- `preuves/phase8/data/p8_ha1.py` — Données sources Python de la fiche phase 8 « ha1 »; alimentent le générateur de fiches HTML.
+- `preuves/phase8/data/p8_ha2.py` — Données sources Python de la fiche phase 8 « ha2 »; alimentent le générateur de fiches HTML.
+- `preuves/phase8/data/p8_is10.py` — Données sources Python de la fiche phase 8 « is10 »; alimentent le générateur de fiches HTML.
+- `preuves/phase8/data/p8_is11.py` — Données sources Python de la fiche phase 8 « is11 »; alimentent le générateur de fiches HTML.
+- `preuves/phase8/data/p8_is12.py` — Données sources Python de la fiche phase 8 « is12 »; alimentent le générateur de fiches HTML.
+- `preuves/phase8/data/p8_is13.py` — Données sources Python de la fiche phase 8 « is13 »; alimentent le générateur de fiches HTML.
+- `preuves/phase8/data/p8_is2.py` — Données sources Python de la fiche phase 8 « is2 »; alimentent le générateur de fiches HTML.
+- `preuves/phase8/data/p8_is3.py` — Données sources Python de la fiche phase 8 « is3 »; alimentent le générateur de fiches HTML.
+- `preuves/phase8/data/p8_is4.py` — Données sources Python de la fiche phase 8 « is4 »; alimentent le générateur de fiches HTML.
+- `preuves/phase8/data/p8_is5.py` — Données sources Python de la fiche phase 8 « is5 »; alimentent le générateur de fiches HTML.
+- `preuves/phase8/data/p8_is6.py` — Données sources Python de la fiche phase 8 « is6 »; alimentent le générateur de fiches HTML.
+- `preuves/phase8/data/p8_is7.py` — Données sources Python de la fiche phase 8 « is7 »; alimentent le générateur de fiches HTML.
+- `preuves/phase8/data/p8_is8.py` — Données sources Python de la fiche phase 8 « is8 »; alimentent le générateur de fiches HTML.
+- `preuves/phase8/data/p8_is9.py` — Données sources Python de la fiche phase 8 « is9 »; alimentent le générateur de fiches HTML.
+- `preuves/phase8/data/p8_jl1.py` — Données sources Python de la fiche phase 8 « jl1 »; alimentent le générateur de fiches HTML.
+- `preuves/phase8/data/p8_jn1.py` — Données sources Python de la fiche phase 8 « jn1 »; alimentent le générateur de fiches HTML.
+- `preuves/phase8/data/p8_jr1.py` — Données sources Python de la fiche phase 8 « jr1 »; alimentent le générateur de fiches HTML.
+- `preuves/phase8/data/p8_jr10.py` — Données sources Python de la fiche phase 8 « jr10 »; alimentent le générateur de fiches HTML.
+- `preuves/phase8/data/p8_jr11.py` — Données sources Python de la fiche phase 8 « jr11 »; alimentent le générateur de fiches HTML.
+- `preuves/phase8/data/p8_jr12.py` — Données sources Python de la fiche phase 8 « jr12 »; alimentent le générateur de fiches HTML.
+- `preuves/phase8/data/p8_jr13.py` — Données sources Python de la fiche phase 8 « jr13 »; alimentent le générateur de fiches HTML.
+- `preuves/phase8/data/p8_jr14.py` — Données sources Python de la fiche phase 8 « jr14 »; alimentent le générateur de fiches HTML.
+- `preuves/phase8/data/p8_jr15.py` — Données sources Python de la fiche phase 8 « jr15 »; alimentent le générateur de fiches HTML.
+- `preuves/phase8/data/p8_jr16.py` — Données sources Python de la fiche phase 8 « jr16 »; alimentent le générateur de fiches HTML.
+- `preuves/phase8/data/p8_jr17.py` — Données sources Python de la fiche phase 8 « jr17 »; alimentent le générateur de fiches HTML.
+- `preuves/phase8/data/p8_jr18.py` — Données sources Python de la fiche phase 8 « jr18 »; alimentent le générateur de fiches HTML.
+- `preuves/phase8/data/p8_jr19.py` — Données sources Python de la fiche phase 8 « jr19 »; alimentent le générateur de fiches HTML.
+- `preuves/phase8/data/p8_jr2.py` — Données sources Python de la fiche phase 8 « jr2 »; alimentent le générateur de fiches HTML.
+- `preuves/phase8/data/p8_jr20lm1.py` — Données sources Python de la fiche phase 8 « jr20lm1 »; alimentent le générateur de fiches HTML.
+- `preuves/phase8/data/p8_jr3.py` — Données sources Python de la fiche phase 8 « jr3 »; alimentent le générateur de fiches HTML.
+- `preuves/phase8/data/p8_jr4.py` — Données sources Python de la fiche phase 8 « jr4 »; alimentent le générateur de fiches HTML.
+- `preuves/phase8/data/p8_jr5.py` — Données sources Python de la fiche phase 8 « jr5 »; alimentent le générateur de fiches HTML.
+- `preuves/phase8/data/p8_jr6.py` — Données sources Python de la fiche phase 8 « jr6 »; alimentent le générateur de fiches HTML.
+- `preuves/phase8/data/p8_jr7.py` — Données sources Python de la fiche phase 8 « jr7 »; alimentent le générateur de fiches HTML.
+- `preuves/phase8/data/p8_jr8.py` — Données sources Python de la fiche phase 8 « jr8 »; alimentent le générateur de fiches HTML.
+- `preuves/phase8/data/p8_jr9.py` — Données sources Python de la fiche phase 8 « jr9 »; alimentent le générateur de fiches HTML.
+- `preuves/phase8/data/p8_mi1.py` — Données sources Python de la fiche phase 8 « mi1 »; alimentent le générateur de fiches HTML.
+- `preuves/phase8/data/p8_mi2.py` — Données sources Python de la fiche phase 8 « mi2 »; alimentent le générateur de fiches HTML.
+- `preuves/phase8/data/p8_ml1.py` — Données sources Python de la fiche phase 8 « ml1 »; alimentent le générateur de fiches HTML.
+- `preuves/phase8/data/p8_na1.py` — Données sources Python de la fiche phase 8 « na1 »; alimentent le générateur de fiches HTML.
+- `preuves/phase8/data/p8_na2.py` — Données sources Python de la fiche phase 8 « na2 »; alimentent le générateur de fiches HTML.
+- `preuves/phase8/data/p8_os1.py` — Données sources Python de la fiche phase 8 « os1 »; alimentent le générateur de fiches HTML.
+- `preuves/phase8/data/p8_os2.py` — Données sources Python de la fiche phase 8 « os2 »; alimentent le générateur de fiches HTML.
+- `preuves/phase8/data/p8_os3.py` — Données sources Python de la fiche phase 8 « os3 »; alimentent le générateur de fiches HTML.
+- `preuves/phase8/data/p8_ro5ch1.py` — Données sources Python de la fiche phase 8 « ro5ch1 »; alimentent le générateur de fiches HTML.
+- `preuves/phase8/data/p8_roi1.py` — Données sources Python de la fiche phase 8 « roi1 »; alimentent le générateur de fiches HTML.
+- `preuves/phase8/data/p8_roi2.py` — Données sources Python de la fiche phase 8 « roi2 »; alimentent le générateur de fiches HTML.
+- `preuves/phase8/data/p8_roi3.py` — Données sources Python de la fiche phase 8 « roi3 »; alimentent le générateur de fiches HTML.
+- `preuves/phase8/data/p8_roi4.py` — Données sources Python de la fiche phase 8 « roi4 »; alimentent le générateur de fiches HTML.
+- `preuves/phase8/data/p8_sam1.py` — Données sources Python de la fiche phase 8 « sam1 »; alimentent le générateur de fiches HTML.
+- `preuves/phase8/data/p8_so1.py` — Données sources Python de la fiche phase 8 « so1 »; alimentent le générateur de fiches HTML.
+- `preuves/phase8/data/p8_so2.py` — Données sources Python de la fiche phase 8 « so2 »; alimentent le générateur de fiches HTML.
+- `preuves/phase8/data/p8_so3.py` — Données sources Python de la fiche phase 8 « so3 »; alimentent le générateur de fiches HTML.
+- `preuves/phase8/data/p8_za1.py` — Données sources Python de la fiche phase 8 « za1 »; alimentent le générateur de fiches HTML.
+- `preuves/phase8/data/p8_za2.py` — Données sources Python de la fiche phase 8 « za2 »; alimentent le générateur de fiches HTML.
+- `preuves/phase8/data/p8_za3.py` — Données sources Python de la fiche phase 8 « za3 »; alimentent le générateur de fiches HTML.
+- `preuves/phase8/data/p8_za4.py` — Données sources Python de la fiche phase 8 « za4 »; alimentent le générateur de fiches HTML.
+- `preuves/site/build_site.py` — Script Python de génération du livrable site; assemble/valide les données et produit des fichiers de sortie.
+- `preuves/videos/LISTE_PLANS_A_GENERER.md` — Document Markdown de procédure ou de référence (« LISTE PLANS A GENERER ») pour le sous-projet correspondant.
+- `preuves/videos/SCRIPTS_VIDEOS.html` — Page/document HTML autonome « scripts videos » : support de consultation, de navigation, d’impression ou de présentation du projet.
+- `preuves/videos/STORYBOARDS.html` — Page/document HTML autonome « storyboards » : support de consultation, de navigation, d’impression ou de présentation du projet.
+- `preuves/videos/build_videos.py` — Script Python de génération du livrable videos; assemble/valide les données et produit des fichiers de sortie.
+- `preuves/visuels/CARTES_QR.html` — Page/document HTML autonome « cartes qr » : support de consultation, de navigation, d’impression ou de présentation du projet.
+- `preuves/visuels/COFFRET.html` — Page/document HTML autonome « coffret » : support de consultation, de navigation, d’impression ou de présentation du projet.
+- `preuves/visuels/DECOUVRIR_PAS_A_PAS.html` — Page/document HTML autonome « decouvrir pas a pas » : support de consultation, de navigation, d’impression ou de présentation du projet.
+- `preuves/visuels/FRISES_CHRONOLOGIQUES.html` — Page/document HTML autonome « frises chronologiques » : support de consultation, de navigation, d’impression ou de présentation du projet.
+- `preuves/visuels/build_visuels.py` — Script Python de génération du livrable visuels; assemble/valide les données et produit des fichiers de sortie.
+- `preuves/visuels/qr/accueil_officiel.png` — Image PNG de code QR destinée au lien/service « accueil officiel ».
+- `preuves/visuels/qr/bible_d_tude.png` — Image PNG de code QR destinée au lien/service « bible d tude ».
+- `preuves/visuels/qr/biblioth_que_en_ligne.png` — Image PNG de code QR destinée au lien/service « biblioth que en ligne ».
+- `preuves/visuels/qr/cours_biblique.png` — Image PNG de code QR destinée au lien/service « cours biblique ».
+- `preuves/visuels/qr/demandez_une_visite.png` — Image PNG de code QR destinée au lien/service « demandez une visite ».
+- `preuves/visuels/qr/la_bible_et_l_histoire.png` — Image PNG de code QR destinée au lien/service « la bible et l histoire ».
+- `preuves/visuels/qr/la_bible_et_la_science.png` — Image PNG de code QR destinée au lien/service « la bible et la science ».
+- `preuves/visuels/qr/questions_bibliques.png` — Image PNG de code QR destinée au lien/service « questions bibliques ».
